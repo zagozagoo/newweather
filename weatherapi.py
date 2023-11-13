@@ -24,10 +24,10 @@ with open ("weather_data.txt", "w") as file:
     for i in range(len(histjson["list"])): # :)
         list_data = histjson["list"][i] # Valor atual da lista
         main_info = list_data["main"] # Pegando os dados principais do valor atual
-        
+
         # Salvando as informações principais do valor atual da lista em uma vari
 
-        file.write(f"Data:{list_data['dt_txt']};") # Printando a data exata daquelas informações
+        file.write(f"Data {list_data['dt_txt']};") # Printando a data exata daquelas informações
         file.write(f"Temperatura:{main_info['temp']};")
         file.write(f"Humidade:{main_info['humidity']};")
         file.write(f"Pressao:{main_info['pressure']}\n")
@@ -40,8 +40,8 @@ with open ("weather_description.txt", "w") as file:
         weather_info = list_data["weather"]
 
         for j in range(len(weather_info)):
-            file.write(f"Data:{list_data['dt_txt']};")
-            file.write(f"Clima:{weather_info[j]['description']};")
+            file.write(f"Data {list_data['dt_txt']};")
+            file.write(f"Weather:{weather_info[j]['description']};")
             file.write(f"{weather_info[j]['icon']}\n")
 
 print("Dados metereologicos foram salvos nos arquivo 'weather_data.txt' e 'weather_description.txt'")
