@@ -1,40 +1,40 @@
-Data:2023-11-13 15:00:00;Temperatura:31.77;Humidade:45;Pressao:1013;Nivel do mar:1013;Clima:clear sky
-Data:2023-11-13 18:00:00;Temperatura:31.59;Humidade:42;Pressao:1011;Nivel do mar:1011;Clima:few clouds
-Data:2023-11-13 21:00:00;Temperatura:28.91;Humidade:47;Pressao:1010;Nivel do mar:1010;Clima:scattered clouds
-Data:2023-11-14 00:00:00;Temperatura:22.06;Humidade:88;Pressao:1011;Nivel do mar:1011;Clima:light rain
-Data:2023-11-14 03:00:00;Temperatura:20.02;Humidade:91;Pressao:1011;Nivel do mar:1011;Clima:overcast clouds
-Data:2023-11-14 06:00:00;Temperatura:19.41;Humidade:93;Pressao:1009;Nivel do mar:1009;Clima:overcast clouds
-Data:2023-11-14 09:00:00;Temperatura:20.21;Humidade:87;Pressao:1008;Nivel do mar:1008;Clima:overcast clouds
-Data:2023-11-14 12:00:00;Temperatura:28.79;Humidade:46;Pressao:1008;Nivel do mar:1008;Clima:broken clouds
-Data:2023-11-14 15:00:00;Temperatura:28.58;Humidade:51;Pressao:1008;Nivel do mar:1008;Clima:broken clouds
-Data:2023-11-14 18:00:00;Temperatura:24.02;Humidade:74;Pressao:1009;Nivel do mar:1009;Clima:light rain
-Data:2023-11-14 21:00:00;Temperatura:19.22;Humidade:89;Pressao:1011;Nivel do mar:1011;Clima:moderate rain
-Data:2023-11-15 00:00:00;Temperatura:17.71;Humidade:94;Pressao:1014;Nivel do mar:1014;Clima:light rain
-Data:2023-11-15 03:00:00;Temperatura:17.35;Humidade:95;Pressao:1013;Nivel do mar:1013;Clima:overcast clouds
-Data:2023-11-15 06:00:00;Temperatura:17.19;Humidade:91;Pressao:1011;Nivel do mar:1011;Clima:overcast clouds
-Data:2023-11-15 09:00:00;Temperatura:17.3;Humidade:89;Pressao:1011;Nivel do mar:1011;Clima:overcast clouds
-Data:2023-11-15 12:00:00;Temperatura:26.79;Humidade:50;Pressao:1010;Nivel do mar:1010;Clima:broken clouds
-Data:2023-11-15 15:00:00;Temperatura:31.88;Humidade:36;Pressao:1008;Nivel do mar:1008;Clima:overcast clouds
-Data:2023-11-15 18:00:00;Temperatura:33.72;Humidade:34;Pressao:1005;Nivel do mar:1005;Clima:overcast clouds
-Data:2023-11-15 21:00:00;Temperatura:22.15;Humidade:86;Pressao:1009;Nivel do mar:1009;Clima:light rain
-Data:2023-11-16 00:00:00;Temperatura:19.71;Humidade:96;Pressao:1010;Nivel do mar:1010;Clima:light rain
-Data:2023-11-16 03:00:00;Temperatura:19.23;Humidade:93;Pressao:1009;Nivel do mar:1009;Clima:overcast clouds
-Data:2023-11-16 06:00:00;Temperatura:18.96;Humidade:91;Pressao:1007;Nivel do mar:1007;Clima:overcast clouds
-Data:2023-11-16 09:00:00;Temperatura:19.63;Humidade:86;Pressao:1006;Nivel do mar:1006;Clima:overcast clouds
-Data:2023-11-16 12:00:00;Temperatura:26.62;Humidade:52;Pressao:1005;Nivel do mar:1005;Clima:overcast clouds
-Data:2023-11-16 15:00:00;Temperatura:31.33;Humidade:38;Pressao:1004;Nivel do mar:1004;Clima:overcast clouds
-Data:2023-11-16 18:00:00;Temperatura:24.3;Humidade:76;Pressao:1005;Nivel do mar:1005;Clima:light rain
-Data:2023-11-16 21:00:00;Temperatura:20.04;Humidade:96;Pressao:1007;Nivel do mar:1007;Clima:light rain
-Data:2023-11-17 00:00:00;Temperatura:18.62;Humidade:96;Pressao:1009;Nivel do mar:1009;Clima:light rain
-Data:2023-11-17 03:00:00;Temperatura:18.19;Humidade:96;Pressao:1008;Nivel do mar:1008;Clima:overcast clouds
-Data:2023-11-17 06:00:00;Temperatura:18.13;Humidade:97;Pressao:1006;Nivel do mar:1006;Clima:light rain
-Data:2023-11-17 09:00:00;Temperatura:18.16;Humidade:97;Pressao:1006;Nivel do mar:1006;Clima:light rain
-Data:2023-11-17 12:00:00;Temperatura:21.82;Humidade:83;Pressao:1008;Nivel do mar:1008;Clima:light rain
-Data:2023-11-17 15:00:00;Temperatura:23.64;Humidade:72;Pressao:1007;Nivel do mar:1007;Clima:overcast clouds
-Data:2023-11-17 18:00:00;Temperatura:24.41;Humidade:73;Pressao:1004;Nivel do mar:1004;Clima:overcast clouds
-Data:2023-11-17 21:00:00;Temperatura:19.78;Humidade:97;Pressao:1004;Nivel do mar:1004;Clima:light rain
-Data:2023-11-18 00:00:00;Temperatura:18.46;Humidade:97;Pressao:1007;Nivel do mar:1007;Clima:light rain
-Data:2023-11-18 03:00:00;Temperatura:18.1;Humidade:98;Pressao:1005;Nivel do mar:1005;Clima:light rain
-Data:2023-11-18 06:00:00;Temperatura:18.47;Humidade:96;Pressao:1001;Nivel do mar:1001;Clima:light rain
-Data:2023-11-18 09:00:00;Temperatura:18.31;Humidade:97;Pressao:1002;Nivel do mar:1002;Clima:light rain
-Data:2023-11-18 12:00:00;Temperatura:19.19;Humidade:97;Pressao:1008;Nivel do mar:1008;Clima:light rain
+Data:2023-11-13 15:00:00;Temperatura:31.92;Humidade:46;Pressao:1013
+Data:2023-11-13 18:00:00;Temperatura:31.69;Humidade:43;Pressao:1011
+Data:2023-11-13 21:00:00;Temperatura:28.96;Humidade:47;Pressao:1010
+Data:2023-11-14 00:00:00;Temperatura:22.06;Humidade:88;Pressao:1011
+Data:2023-11-14 03:00:00;Temperatura:20.02;Humidade:91;Pressao:1011
+Data:2023-11-14 06:00:00;Temperatura:19.41;Humidade:93;Pressao:1009
+Data:2023-11-14 09:00:00;Temperatura:20.21;Humidade:87;Pressao:1008
+Data:2023-11-14 12:00:00;Temperatura:28.79;Humidade:46;Pressao:1008
+Data:2023-11-14 15:00:00;Temperatura:28.58;Humidade:51;Pressao:1008
+Data:2023-11-14 18:00:00;Temperatura:24.02;Humidade:74;Pressao:1009
+Data:2023-11-14 21:00:00;Temperatura:19.22;Humidade:89;Pressao:1011
+Data:2023-11-15 00:00:00;Temperatura:17.71;Humidade:94;Pressao:1014
+Data:2023-11-15 03:00:00;Temperatura:17.35;Humidade:95;Pressao:1013
+Data:2023-11-15 06:00:00;Temperatura:17.19;Humidade:91;Pressao:1011
+Data:2023-11-15 09:00:00;Temperatura:17.3;Humidade:89;Pressao:1011
+Data:2023-11-15 12:00:00;Temperatura:26.79;Humidade:50;Pressao:1010
+Data:2023-11-15 15:00:00;Temperatura:31.88;Humidade:36;Pressao:1008
+Data:2023-11-15 18:00:00;Temperatura:33.72;Humidade:34;Pressao:1005
+Data:2023-11-15 21:00:00;Temperatura:22.15;Humidade:86;Pressao:1009
+Data:2023-11-16 00:00:00;Temperatura:19.71;Humidade:96;Pressao:1010
+Data:2023-11-16 03:00:00;Temperatura:19.23;Humidade:93;Pressao:1009
+Data:2023-11-16 06:00:00;Temperatura:18.96;Humidade:91;Pressao:1007
+Data:2023-11-16 09:00:00;Temperatura:19.63;Humidade:86;Pressao:1006
+Data:2023-11-16 12:00:00;Temperatura:26.62;Humidade:52;Pressao:1005
+Data:2023-11-16 15:00:00;Temperatura:31.33;Humidade:38;Pressao:1004
+Data:2023-11-16 18:00:00;Temperatura:24.3;Humidade:76;Pressao:1005
+Data:2023-11-16 21:00:00;Temperatura:20.04;Humidade:96;Pressao:1007
+Data:2023-11-17 00:00:00;Temperatura:18.62;Humidade:96;Pressao:1009
+Data:2023-11-17 03:00:00;Temperatura:18.19;Humidade:96;Pressao:1008
+Data:2023-11-17 06:00:00;Temperatura:18.13;Humidade:97;Pressao:1006
+Data:2023-11-17 09:00:00;Temperatura:18.16;Humidade:97;Pressao:1006
+Data:2023-11-17 12:00:00;Temperatura:21.82;Humidade:83;Pressao:1008
+Data:2023-11-17 15:00:00;Temperatura:23.64;Humidade:72;Pressao:1007
+Data:2023-11-17 18:00:00;Temperatura:24.41;Humidade:73;Pressao:1004
+Data:2023-11-17 21:00:00;Temperatura:19.78;Humidade:97;Pressao:1004
+Data:2023-11-18 00:00:00;Temperatura:18.46;Humidade:97;Pressao:1007
+Data:2023-11-18 03:00:00;Temperatura:18.1;Humidade:98;Pressao:1005
+Data:2023-11-18 06:00:00;Temperatura:18.47;Humidade:96;Pressao:1001
+Data:2023-11-18 09:00:00;Temperatura:18.31;Humidade:97;Pressao:1002
+Data:2023-11-18 12:00:00;Temperatura:19.19;Humidade:97;Pressao:1008
